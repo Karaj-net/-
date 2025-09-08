@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: ycyjn-ydnpu
+created: 2025-02-07T21:52:13+03:00

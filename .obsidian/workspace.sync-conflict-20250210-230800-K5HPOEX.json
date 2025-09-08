@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "6aca557f3f182e03",
+    "type": "split",
+    "children": [
+      {
+        "id": "a45386818c77f0be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ee6714a31adee9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учеба/Лекции/Управление данными/Лекция 1 Управление данными.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лекция 1 Управление данными"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "214df368709e3882",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dbbca629c7c1032",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87dabf1cb7010664",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "d7e4b35dbeeaabff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "cfa7ceb776d539ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6a183242957d1518",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1a4401fc87760a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b41e5433e506bf7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GoLang/Операторы/Управление потоками с операторами if...else.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Управление потоками с операторами if...else"
+            }
+          },
+          {
+            "id": "2be5f6f1e0a3363f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GoLang/Операторы/Управление потоками с операторами if...else.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Управление потоками с операторами if...else"
+            }
+          },
+          {
+            "id": "19b82e6dc25596e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "ef49a660bf86c8bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GoLang/Операторы/Управление потоками с операторами if...else.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Управление потоками с операторами if...else"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "9ee6714a31adee9d",
+  "lastOpenFiles": [
+    "Для изображения/Pasted image 20250208013522.png",
+    "Для изображения/Pasted image 20250208013243.png",
+    "Для изображения/Pasted image 20250208002908.png",
+    "Для изображения/Pasted image 20250208002858.png",
+    "Для изображения/Pasted image 20250208002631.png",
+    "Учеба/Лекции/Архитектурное проектирование/Лекция 1 Информационные технологии в архитектурном проектировании.md",
+    "Учеба/Лекции/Управление данными/Лекция 1 Управление данными.md",
+    "Для изображения/Pasted image 20250207222942.png",
+    "Для изображения/Pasted image 20250207222946.png",
+    "Учеба/Практика/Схемотехника практика/Схемотехника 1.md",
+    "Для изображения/Pasted image 20250207222730.png",
+    "Для изображения/Pasted image 20250207222725.png",
+    "Для изображения/Pasted image 20250207222709.png",
+    "Для изображения/Pasted image 20250207222704.png",
+    "Учеба/Лекции/Моделирование систем/Лекция 1 Унифицированный яз. прог. UML.md",
+    "Важные Ссылки/Для обсидиан.md",
+    "Учеба/Лекции/Коррупция/1 Лекция. Тема - Вступление в коррупцию. Основы права.md",
+    "Маленькие видосы для тг.md",
+    "![[Pasted image 20250206132741.png.md",
+    "Учеба/Лекции/Технология программирования/Лекция 1 Введение.md",
+    "Учеба/Лекции/Технология программирования",
+    "Для изображения",
+    "Для изображений.md",
+    "Учеба/Лекции/Моделирование систем",
+    "Учеба/Практика/Список домашки.md",
+    "Важные Ссылки/Шаблоны/Для лекций.md",
+    "2025-02-03.md",
+    "Учеба/Лекции/Коррупция",
+    "Для Лекций",
+    "Важные Ссылки/Шаблоны/Без названия.md",
+    "Без названия 1.md",
+    "Шаблоны/Без названия.md",
+    "Важные Ссылки/Шаблоны",
+    "Учеба/Лекции/Схемотехника/1 Лекция.md",
+    "Учеба/Практика/Архитектурное проектирование практика",
+    "Учеба/Лекции/Архитектурное проектирование",
+    "Учеба/Практика/Управление данными практика",
+    "Учеба/Лекции/Управление данными",
+    "GoLang/Операторы/Управление потоками с операторами if...else.md",
+    "GoLang/Типы/Типизация в Golang.md",
+    "GoLang/Операторы/Операторы.md",
+    "GoLang/Операторы/Оператор switch.md",
+    "Мои знания.md",
+    "GoLang/Типы/Строки и руны.md",
+    "GoLang/Переменные/Переменные.md",
+    "GoLang/Функции/Функции на практике.md",
+    "Без названия.canvas"
+  ]
+}

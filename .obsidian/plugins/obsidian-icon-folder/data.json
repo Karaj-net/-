@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "#️⃣",
+      "LiGithub",
+      "LiDatabase",
+      "🔌",
+      "⛑"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Языки программирования/Python": "🐍",
+  "Языки программирования/GoLang": "🧸",
+  "Языки программирования/C": "LiCpu",
+  "Языки программирования/GIT": "LiGithub",
+  "Учеба/2 курс/2 семестр/Архитектурное проектирование": "LiHome",
+  "Учеба/2 курс/2 семестр/Коррупция": "💰",
+  "Учеба/2 курс/2 семестр/Моделирование систем": "LiMoveDiagonal",
+  "Учеба/2 курс/2 семестр/Схемотехника": "🔌",
+  "Учеба/2 курс/2 семестр/Управление данными": "LiDatabase",
+  "Учеба/2 курс/2 семестр/Технология программирования": "#️⃣"
+}

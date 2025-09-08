@@ -1,0 +1,100 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:GoLang  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:\"Учеба/2 курс/Моделирование систем\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5526674
+      }
+    },
+    {
+      "query": "path:\"Языки программирования/Python\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 52479
+      }
+    },
+    {
+      "query": "path:\"Языки программирования/Python/Учебник из сайта\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "tag:#Git  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#Архитектурное_моделирование  ",
+      "color": {
+        "a": 1,
+        "rgb": 16751001
+      }
+    },
+    {
+      "query": "tag:#Корупция  ",
+      "color": {
+        "a": 1,
+        "rgb": 5712384
+      }
+    },
+    {
+      "query": "tag:#Моделирование_систем  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#Схемотехника  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "tag:#Управление_данными  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Технология_программирования  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.59495841995842,
+  "lineSizeMultiplier": 1.35046777546778,
+  "collapse-forces": true,
+  "centerStrength": 0.703742203742204,
+  "repelStrength": 20,
+  "linkStrength": 0.911642411642412,
+  "linkDistance": 269,
+  "scale": 0.1968715529149943,
+  "close": true
+}

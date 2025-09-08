@@ -1,0 +1,322 @@
+{
+  "main": {
+    "id": "6aca557f3f182e03",
+    "type": "split",
+    "children": [
+      {
+        "id": "b931c6fcd2dc27fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9751e9c020b48a13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Важные Ссылки/Шаблоны/Для лекций.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Для лекций"
+            }
+          },
+          {
+            "id": "5cf6bffeba79efe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учеба/Практика/Управление данными практика/Практика 3 Управление данными.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Практика 3 Управление данными"
+            }
+          },
+          {
+            "id": "28309a9f41cbd477",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учеба/Практика/Управление данными практика/Практика 4 Управление данными.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Практика 4 Управление данными"
+            }
+          },
+          {
+            "id": "cba401af469f7fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учеба/Лекции/Коррупция/Лекция 4 Коррупция.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лекция 4 Коррупция"
+            }
+          },
+          {
+            "id": "21e0886638c82f94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учеба/Лекции/Управление данными/Лекция 3 Управление данными.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лекция 3 Управление данными"
+            }
+          },
+          {
+            "id": "909f479980b10007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учеба/Лекции/Схемотехника/Лекция 2 Схемотехника.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лекция 2 Схемотехника"
+            }
+          },
+          {
+            "id": "7ad70c1614df3585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учеба/Лекции/Технология программирования/Лекция 4 Технология программирования.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лекция 4 Технология программирования"
+            }
+          },
+          {
+            "id": "43863c4b735ebb72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учеба/Лекции/Технология программирования/Лекция 2 Технология прогрммирования.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лекция 2 Технология прогрммирования"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "214df368709e3882",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dbbca629c7c1032",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87dabf1cb7010664",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "d7e4b35dbeeaabff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "cfa7ceb776d539ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6a183242957d1518",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1a4401fc87760a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b41e5433e506bf7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GoLang/Операторы/Управление потоками с операторами if...else.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Управление потоками с операторами if...else"
+            }
+          },
+          {
+            "id": "2be5f6f1e0a3363f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GoLang/Операторы/Управление потоками с операторами if...else.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Управление потоками с операторами if...else"
+            }
+          },
+          {
+            "id": "19b82e6dc25596e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "ef49a660bf86c8bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GoLang/Операторы/Управление потоками с операторами if...else.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Управление потоками с операторами if...else"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "43863c4b735ebb72",
+  "lastOpenFiles": [
+    "Учеба/Лекции/Технология программирования/Лекция 1 Технология программирования.md",
+    "Учеба/Лекции/Технология программирования/Лекция 2 Технология прогрммирования.md",
+    "Учеба/Практика/Моделирование систем/Практика 1 Моделирование систем.md",
+    "Учеба/Лекции/Технология программирования/Лекция 4 Технология программирования.md",
+    "Учеба/Лекции/Технология программирования/Лекция 3 Технология программирования.md",
+    "Без названия.md",
+    "Учеба/Лекции/Схемотехника/Лекция 2 Схемотехника.md",
+    "Для изображения/Pasted image 20250226121527.png",
+    "Для изображения/Pasted image 20250226120247.png",
+    "Учеба/Лекции/Схемотехника/Лекция 3 Схемотехника.md",
+    "Учеба/Лекции/Управление данными/Лекция 3 Управление данными.md",
+    "Учеба/Лекции/Управление данными/Лекция 2 Управление данными.md",
+    "Учеба/Лекции/Коррупция/Лекция 4 Коррупция.md",
+    "Учеба/Лекции/Коррупция/Лекция 3 Коррупция.md",
+    "Учеба/Практика/Управление данными практика/Практика 4 Управление данными.md",
+    "Учеба/Практика/Управление данными практика/Практика 3 Управление данными.md",
+    "Для изображения/Pasted image 20250221225816.png",
+    "Учеба/Практика/Управление данными практика/Практика 2 Управление данными.md",
+    "Учеба/Лекции/Схемотехника/Лекция 1 Схемотехника.md",
+    "Учеба/Лекции/Архитектурное проектирование/Лекция 1 Информационные технологии в архитектурном проектировании.md",
+    "Учеба/Лекции/Коррупция/Лекция 1 Коррупция.md",
+    "Учеба/Лекции/Коррупция/Лекция 2 Коррупция.md",
+    "Учеба/Лекции/Моделирование систем/Лекция 1 Унифицированный яз. прог. UML.md",
+    "Учеба/Лекции/Моделирование систем/Лекция 2 Моделирование систем.md",
+    "Учеба/Лекции/Моделирование систем/Лекция 3 Моделирование систем.md",
+    "Учеба/Лекции/Управление данными/Лекция 1 Управление данными.md",
+    "Учеба/Практика/Список домашки.md",
+    "Учеба/Практика/Управление данными практика/Практика 1 Управление данными.md",
+    "Учеба/Практика/Схемотехника практика/Практика 1 Схемотехника.md",
+    "Для изображения/Pasted image 20250221202510.png",
+    "Для изображения/Pasted image 20250221202337.png",
+    "Для изображения/Pasted image 20250219124110.png",
+    "Для изображения/Pasted image 20250219123309.png",
+    "Для изображения/Pasted image 20250219120506.png",
+    "Для изображения/Pasted image 20250218092834.png",
+    "Для изображения/Pasted image 20250218092728.png",
+    "Учеба/Практика/Моделирование систем",
+    "Учеба/Лекции/Технология программирования",
+    "Для изображения",
+    "Учеба/Лекции/Моделирование систем",
+    "Учеба/Лекции/Коррупция",
+    "Для Лекций",
+    "Важные Ссылки/Шаблоны",
+    "Учеба/Практика/Архитектурное проектирование практика",
+    "Учеба/Лекции/Архитектурное проектирование",
+    "Учеба/Практика/Управление данными практика",
+    "Без названия.canvas"
+  ]
+}
