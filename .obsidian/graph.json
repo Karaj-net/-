@@ -83,6 +83,55 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "path:\"Учеба/3 курс/1 семестр/Методы ИИ\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Учеба/3 курс/1 семестр/Архитектура ИС\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Учеба/3 курс/1 семестр/МиСПИС\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Учеба/3 курс/1 семестр/БЖД\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"Учеба/3 курс/1 семестр/Моделирование зданий\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:\"Учеба/3 курс/1 семестр/Экономика\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:\"Учеба/3 курс/1 семестр/ООП\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395121
+      }
     }
   ],
   "collapse-display": true,
@@ -90,11 +139,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.59495841995842,
   "lineSizeMultiplier": 1.35046777546778,
-  "collapse-forces": true,
-  "centerStrength": 0.703742203742204,
-  "repelStrength": 20,
-  "linkStrength": 0.911642411642412,
-  "linkDistance": 269,
-  "scale": 0.1744955953934367,
-  "close": true
+  "collapse-forces": false,
+  "centerStrength": 0.433471933471933,
+  "repelStrength": 14.5738045738046,
+  "linkStrength": 1,
+  "linkDistance": 263,
+  "scale": 0.2341265318005369,
+  "close": false
 }
