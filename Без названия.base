@@ -1,0 +1,6 @@
+views:
+  - type: cards
+    name: Таблица
+    cardSize: 390
+  - type: table
+    name: представление
