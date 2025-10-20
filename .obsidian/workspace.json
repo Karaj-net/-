@@ -172,16 +172,6 @@
             }
           },
           {
-            "id": "c38b1174d20a19ae",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
-            }
-          },
-          {
             "id": "c0175883000b5c17",
             "type": "leaf",
             "state": {
@@ -192,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -200,7 +190,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "smart-connections:Smart Connections: Open random connection": true,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
@@ -209,9 +198,7 @@
       "command-palette:Открыть палитру команд": false,
       "templates:Вставить шаблон": false,
       "daily-notes:Сегодняшняя заметка": false,
-      "smart-connections:Open: Smart Chat": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "smart-connections:Smart Connections: Open connections view": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false
