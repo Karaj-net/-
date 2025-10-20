@@ -6,5 +6,8 @@
   "calendar",
   "editing-toolbar",
   "obsidian-outliner",
-  "obsidian-image-toolkit"
+  "obsidian-image-toolkit",
+  "obsidian-textgenerator-plugin",
+  "smart-connections",
+  "obsidian-git"
 ]
